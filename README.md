@@ -48,10 +48,10 @@ class BankloanAdmin(admin.ModelAdmin):
 
 Include the screenshot of your admin page.
 Users Page:
-![alt text](<screen_shot image 2024-11-17 out 2.jpg>)
+![alt text](<Screenshot 2024-11-17 074323.png>)
 
 Bank Loan Page:
-![alt text](<screen_shot image 2024-11-17 out.jpg>)
+![alt text](<Screenshot 2024-11-17 075102.png>)
 
 
 ## RESULT
